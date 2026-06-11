@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @MajorDolo
-- 👀 I’m interested in all things AI, machine learning and Neural networks, control and automation systems.
-- 🌱 Master of Science in Machine Learning 
+AI/ML Engineer with a Master’s degree in Machine Learning and experience spanning applied AI research, production software
+engineering, and end-to-end ML system development. Skilled in building predictive models, LLM/RAG prototypes, generative AI
+tools, edge-AI pipelines, and cloud-deployed applications. Proven ability to translate research into practical systems, including
+production mobile/cloud products serving thousands of users, with strong hands-on experience across PyTorch, FastAPI,
+Docker, cloud deployment, and mobile AI integration.
 
 <!---
 MajorDolo/MajorDolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
